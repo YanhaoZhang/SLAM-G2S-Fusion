@@ -2,7 +2,7 @@
 
 Code of our work that is published on ICRA 2024. 
 
-[//]: <> ## [Project website](https://imaging.cs.cmu.edu/volumetric_opaque_solids/index.html)
+[//]: <> ## [Project website]( )
 
 <p align="center">
   <img src="doc/introduction.jpg"/>
