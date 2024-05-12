@@ -2,10 +2,10 @@
 
 Code of our work that is published on ICRA 2024. 
 
-[//]: <> ## [Project website]( )
+## [Project website](https://yanhaozhang.github.io/G2S-SLAM-Webpage/)
 
 <p align="center">
-  <img src="doc/introduction.jpg"/>
+  <img src="doc/flowchart.jpg"/>
 </p>
 
 We propose a framework that integrates a ground-to-satellite (G2S) cross-view registration method with visual SLAM for autonomous driving. Loop closure, which is crucial for reducing localization error, is not always available in autonomous driving. Conversely, G2S registration avoids error accumulation but lacks robustness. Our goal is to combine the advantages of both methods to achieve precise vision-based vehicle localization.
