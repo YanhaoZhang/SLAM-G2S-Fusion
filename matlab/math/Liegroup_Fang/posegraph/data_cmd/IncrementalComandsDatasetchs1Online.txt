@@ -1,0 +1,1043 @@
+
+vv-------vv
+
+    Iter 1:    objFunc = 1.2362e-24
+
+    objFuncLinear = 5.1989e-48    df = -2.3988e-38    df_term1 = -7.8104e-62    df_term2 = -2.3988e-38    df_term3 = -7.8104e-62
+
+Finished initialization, the original poses and its marginal computed!
+
+
+    Iter 1:    objFunc = 3.6726
+
+    objFuncLinear = 3.6416    df = 0.084843    df_term1 = 0.055382    df_term2 = 0.029461    df_term3 = 0.055382
+
+    objLinearPre = 3.6416    objLinearCur = 3.6712    <=>    delta_obj = 0.029569    <=>    df_by_xi = 0.084843    df_by_x = 0.060795
+
+
+    Iter 2:    objFunc = 3.6712
+
+    objFuncLinear = 3.6712    df = 4.6518e-05    df_term1 = 3.094e-05    df_term2 = 1.5578e-05    df_term3 = 3.094e-05
+
+    objLinearPre = 3.6712    objLinearCur = 3.6712    <=>    delta_obj = 1.4207e-05    <=>    df_by_xi = 4.6518e-05    df_by_x = 3.3642e-05
+
+
+    Iter 3:    objFunc = 3.6712
+
+    objFuncLinear = 3.6712    df = 7.385e-08    df_term1 = 4.8981e-08    df_term2 = 2.4869e-08    df_term3 = 4.8981e-08
+
+    objLinearPre = 3.6712    objLinearCur = 3.6712    <=>    delta_obj = 2.1633e-08    <=>    df_by_xi = 7.385e-08    df_by_x = 5.5432e-08
+
+
+    Iter 4:    objFunc = 3.6712
+
+    objFuncLinear = 3.6712    df = 6.2472e-11    df_term1 = 4.1317e-11    df_term2 = 2.1155e-11    df_term3 = 4.1317e-11
+
+    objLinearPre = 3.6712    objLinearCur = 3.6712    <=>    delta_obj = 1.2436e-11    <=>    df_by_xi = 6.2472e-11    df_by_x = 5.8708e-11
+
+
+    Iter 5:    objFunc = 3.6712
+
+    objFuncLinear = 3.6712    df = -2.2397e-13    df_term1 = -1.5835e-13    df_term2 = -6.562e-14    df_term3 = -1.5835e-13
+
+    objLinearPre = 3.6712    objLinearCur = 3.6712    <=>    delta_obj = -9.1482e-14    <=>    df_by_xi = -2.2397e-13    df_by_x = -1.0592e-13
+
+
+    Iter 6:    objFunc = 3.6712
+
+    objFuncLinear = 3.6712    df = -2.6484e-08    df_term1 = -6.6832e-16    df_term2 = -2.6484e-08    df_term3 = -6.6832e-16
+
+    objLinearPre = 3.6712    objLinearCur = 3.6712    <=>    delta_obj = -1.1546e-14    <=>    df_by_xi = -1.1232e-14    df_by_x = -1.1249e-15
+
+
+    Iter 7:    objFunc = 3.6712
+
+    objFuncLinear = 3.6712    df = -7.4577e-09    df_term1 = -2.8202e-18    df_term2 = -7.4577e-09    df_term3 = -2.8202e-18
+
+    objLinearPre = 3.6712    objLinearCur = 3.6712    <=>    delta_obj = 7.1054e-15    <=>    df_by_xi = 6.2292e-15    df_by_x = -6.1325e-18
+
+
+    Iter 8:    objFunc = 3.6712
+
+    objFuncLinear = 3.6712    df = -2.3709e-10    df_term1 = -1.5108e-20    df_term2 = -2.3709e-10    df_term3 = -1.5108e-20
+Summary >>   ConstraintMetric = 3.4638     ObjectiveGrowth = 3.6712
+
+
+    Iter 1:    objFunc = 3.7226
+
+    objFuncLinear = 3.7224    df = 0.00017632    df_term1 = 0.00011748    df_term2 = 5.8838e-05    df_term3 = 0.00011748
+
+    objLinearPre = 3.7224    objLinearCur = 3.7224    <=>    delta_obj = 6.5102e-05    <=>    df_by_xi = 0.00017632    df_by_x = 0.00011889
+
+
+    Iter 2:    objFunc = 3.7224
+
+    objFuncLinear = 3.7224    df = -3.1821e-09    df_term1 = -2.1247e-09    df_term2 = -1.0574e-09    df_term3 = -2.1247e-09
+
+    objLinearPre = 3.7224    objLinearCur = 3.7224    <=>    delta_obj = -1.0709e-09    <=>    df_by_xi = -3.1872e-09    df_by_x = -2.109e-09
+
+
+    Iter 3:    objFunc = 3.7224
+
+    objFuncLinear = 3.7224    df = 1.2719e-07    df_term1 = 2.4958e-15    df_term2 = 1.2719e-07    df_term3 = 2.4958e-15
+
+    objLinearPre = 3.7224    objLinearCur = 3.7224    <=>    delta_obj = -4.885e-15    <=>    df_by_xi = -3.7472e-15    df_by_x = 2.1702e-15
+
+
+    Iter 4:    objFunc = 3.7224
+
+    objFuncLinear = 3.7224    df = -9.8566e-12    df_term1 = 1.036e-21    df_term2 = -9.8566e-12    df_term3 = 1.036e-21
+Summary >>   ConstraintMetric = 0.051192     ObjectiveGrowth = 0.051256
+
+
+    Iter 1:    objFunc = 4.5288
+
+    objFuncLinear = 4.4213    df = 0.029968    df_term1 = 0.019953    df_term2 = 0.010015    df_term3 = 0.019953
+
+    objLinearPre = 4.4213    objLinearCur = 4.4315    <=>    delta_obj = 0.010224    <=>    df_by_xi = 0.029968    df_by_x = 0.021305
+
+
+    Iter 2:    objFunc = 4.4315
+
+    objFuncLinear = 4.4315    df = -4.3603e-05    df_term1 = -2.9058e-05    df_term2 = -1.4546e-05    df_term3 = -2.9058e-05
+
+    objLinearPre = 4.4315    objLinearCur = 4.4315    <=>    delta_obj = -1.5211e-05    <=>    df_by_xi = -4.3603e-05    df_by_x = -2.7843e-05
+
+
+    Iter 3:    objFunc = 4.4315
+
+    objFuncLinear = 4.4315    df = 1.6349e-09    df_term1 = 1.0907e-09    df_term2 = 5.4424e-10    df_term3 = 1.0907e-09
+
+    objLinearPre = 4.4315    objLinearCur = 4.4315    <=>    delta_obj = 5.2175e-10    <=>    df_by_xi = 1.6359e-09    df_by_x = 1.1377e-09
+
+
+    Iter 4:    objFunc = 4.4315
+
+    objFuncLinear = 4.4315    df = -9.1564e-07    df_term1 = 4.3139e-14    df_term2 = -9.1564e-07    df_term3 = 4.3139e-14
+
+    objLinearPre = 4.4315    objLinearCur = 4.4315    <=>    delta_obj = -3.5527e-15    <=>    df_by_xi = -2.5676e-15    df_by_x = 2.0612e-15
+
+
+    Iter 5:    objFunc = 4.4315
+
+    objFuncLinear = 4.4315    df = -1.823e-09    df_term1 = 4.9196e-18    df_term2 = -1.823e-09    df_term3 = 4.9196e-18
+Summary >>   ConstraintMetric = 0.69919     ObjectiveGrowth = 0.70907
+
+
+    Iter 1:    objFunc = 5.1965
+
+    objFuncLinear = 5.1792    df = 0.033785    df_term1 = 0.022335    df_term2 = 0.011451    df_term3 = 0.022335
+
+    objLinearPre = 5.1792    objLinearCur = 5.1852    <=>    delta_obj = 0.0059803    <=>    df_by_xi = 0.033785    df_by_x = 0.036241
+
+
+    Iter 2:    objFunc = 5.1852
+
+    objFuncLinear = 5.1852    df = 0.00011225    df_term1 = 7.4888e-05    df_term2 = 3.7362e-05    df_term3 = 7.4888e-05
+
+    objLinearPre = 5.1852    objLinearCur = 5.1852    <=>    delta_obj = 3.3183e-05    <=>    df_by_xi = 0.00011225    df_by_x = 8.2175e-05
+
+
+    Iter 3:    objFunc = 5.1852
+
+    objFuncLinear = 5.1852    df = 8.9938e-08    df_term1 = 1.0932e-07    df_term2 = -1.9387e-08    df_term3 = 1.0932e-07
+
+    objLinearPre = 5.1852    objLinearCur = 5.1852    <=>    delta_obj = 5.0228e-08    <=>    df_by_xi = 1.6399e-07    df_by_x = 1.182e-07
+
+
+    Iter 4:    objFunc = 5.1852
+
+    objFuncLinear = 5.1852    df = 2.5674e-10    df_term1 = 1.7215e-10    df_term2 = 8.459e-11    df_term3 = 1.7215e-10
+
+    objLinearPre = 5.1852    objLinearCur = 5.1852    <=>    delta_obj = 8.0465e-11    <=>    df_by_xi = 2.5822e-10    df_by_x = 1.8336e-10
+
+
+    Iter 5:    objFunc = 5.1852
+
+    objFuncLinear = 5.1852    df = -2.529e-07    df_term1 = 2.1643e-13    df_term2 = -2.529e-07    df_term3 = 2.1643e-13
+
+    objLinearPre = 5.1852    objLinearCur = 5.1852    <=>    delta_obj = 1.4033e-13    <=>    df_by_xi = 4.1804e-13    df_by_x = 2.8435e-13
+
+
+    Iter 6:    objFunc = 5.1852
+
+    objFuncLinear = 5.1852    df = 7.726e-09    df_term1 = 1.1931e-16    df_term2 = 7.726e-09    df_term3 = 1.1931e-16
+
+    objLinearPre = 5.1852    objLinearCur = 5.1852    <=>    delta_obj = -1.2434e-14    <=>    df_by_xi = -1.0651e-14    df_by_x = 4.3585e-16
+
+
+    Iter 7:    objFunc = 5.1852
+
+    objFuncLinear = 5.1852    df = -2.2677e-10    df_term1 = 2.2647e-19    df_term2 = -2.2677e-10    df_term3 = 2.2647e-19
+Summary >>   ConstraintMetric = 0.7474     ObjectiveGrowth = 0.75373
+
+
+    Iter 1:    objFunc = 6.9766
+
+    objFuncLinear = 6.4661    df = 0.086022    df_term1 = 0.058461    df_term2 = 0.02756    df_term3 = 0.058461
+
+    objLinearPre = 6.4661    objLinearCur = 6.4898    <=>    delta_obj = 0.023682    <=>    df_by_xi = 0.086022    df_by_x = 0.057779
+
+
+    Iter 2:    objFunc = 6.4895
+
+    objFuncLinear = 6.4898    df = -0.00070342    df_term1 = -0.00046882    df_term2 = -0.0002346    df_term3 = -0.00046882
+
+    objLinearPre = 6.4898    objLinearCur = 6.4895    <=>    delta_obj = -0.00023859    <=>    df_by_xi = -0.00070342    df_by_x = -0.00045965
+
+
+    Iter 3:    objFunc = 6.4895
+
+    objFuncLinear = 6.4895    df = -1.4307e-07    df_term1 = -9.54e-08    df_term2 = -4.7671e-08    df_term3 = -9.54e-08
+
+    objLinearPre = 6.4895    objLinearCur = 6.4895    <=>    delta_obj = -4.8975e-08    <=>    df_by_xi = -1.4307e-07    df_by_x = -9.2793e-08
+
+
+    Iter 4:    objFunc = 6.4895
+
+    objFuncLinear = 6.4895    df = 1.9949e-08    df_term1 = -2.7037e-11    df_term2 = 1.9976e-08    df_term3 = -2.7037e-11
+
+    objLinearPre = 6.4895    objLinearCur = 6.4895    <=>    delta_obj = -1.433e-11    <=>    df_by_xi = -4.1383e-11    df_by_x = -2.6525e-11
+
+
+    Iter 5:    objFunc = 6.4895
+
+    objFuncLinear = 6.4895    df = -8.1696e-08    df_term1 = -5.4884e-15    df_term2 = -8.1696e-08    df_term3 = -5.4884e-15
+
+    objLinearPre = 6.4895    objLinearCur = 6.4895    <=>    delta_obj = 7.9936e-15    <=>    df_by_xi = 2.7045e-15    df_by_x = -5.4758e-15
+
+
+    Iter 6:    objFunc = 6.4895
+
+    objFuncLinear = 6.4895    df = 2.0434e-09    df_term1 = 3.3241e-18    df_term2 = 2.0434e-09    df_term3 = 3.3241e-18
+
+    objLinearPre = 6.4895    objLinearCur = 6.4895    <=>    delta_obj = 0    <=>    df_by_xi = -8.76e-16    df_by_x = 1.6628e-18
+
+
+    Iter 7:    objFunc = 6.4895
+
+    objFuncLinear = 6.4895    df = 3.1453e-11    df_term1 = 8.4973e-22    df_term2 = 3.1453e-11    df_term3 = 8.4973e-22
+Summary >>   ConstraintMetric = 1.2228     ObjectiveGrowth = 1.3043
+
+
+vv-------vv
+
+    Iter 1:    objFunc = 98.2417
+
+    objFuncLinear = 7.2891    df = 0.0059368    df_term1 = 0.0038894    df_term2 = 0.0020475    df_term3 = 0.0038894
+
+    objLinearPre = 7.2891    objLinearCur = 7.29    <=>    delta_obj = 0.00094625    <=>    df_by_xi = 0.0059368    df_by_x = 0.0070182
+
+
+    Iter 2:    objFunc = 7.29
+
+    objFuncLinear = 7.29    df = -1.5788e-05    df_term1 = -1.0523e-05    df_term2 = -5.2649e-06    df_term3 = -1.0523e-05
+
+    objLinearPre = 7.29    objLinearCur = 7.29    <=>    delta_obj = -6.0152e-06    <=>    df_by_xi = -1.5788e-05    df_by_x = -9.0334e-06
+
+
+    Iter 3:    objFunc = 7.29
+
+    objFuncLinear = 7.29    df = -7.3391e-08    df_term1 = -3.9882e-08    df_term2 = -3.3509e-08    df_term3 = -3.9882e-08
+
+    objLinearPre = 7.29    objLinearCur = 7.29    <=>    delta_obj = -2.0862e-08    <=>    df_by_xi = -5.9825e-08    df_by_x = -3.8045e-08
+
+
+    Iter 4:    objFunc = 7.29
+
+    objFuncLinear = 7.29    df = -2.9444e-07    df_term1 = -6.4963e-11    df_term2 = -2.9438e-07    df_term3 = -6.4963e-11
+
+    objLinearPre = 7.29    objLinearCur = 7.29    <=>    delta_obj = -3.3991e-11    <=>    df_by_xi = -9.7757e-11    df_by_x = -6.2381e-11
+
+
+    Iter 5:    objFunc = 7.29
+
+    objFuncLinear = 7.29    df = 6.5028e-07    df_term1 = -6.9486e-14    df_term2 = 6.5028e-07    df_term3 = -6.9486e-14
+
+    objLinearPre = 7.29    objLinearCur = 7.29    <=>    delta_obj = -2.6645e-15    <=>    df_by_xi = -1.0521e-13    df_by_x = -9.8715e-14
+
+
+    Iter 6:    objFunc = 7.29
+
+    objFuncLinear = 7.29    df = 2.1285e-08    df_term1 = -5.6215e-17    df_term2 = 2.1285e-08    df_term3 = -5.6215e-17
+
+    objLinearPre = 7.29    objLinearCur = 7.29    <=>    delta_obj = -3.1086e-14    <=>    df_by_xi = -3.2068e-14    df_by_x = -1.5581e-16
+
+
+    Iter 7:    objFunc = 7.29
+
+    objFuncLinear = 7.29    df = 6.0518e-10    df_term1 = -9.8738e-20    df_term2 = 6.0518e-10    df_term3 = -9.8738e-20
+Summary >>   ConstraintMetric = 0.80183     ObjectiveGrowth = 0.80048
+
+
+    Iter 1:    objFunc = 7.8778
+
+    objFuncLinear = 7.8774    df = -0.00084465    df_term1 = -0.00057229    df_term2 = -0.00027236    df_term3 = -0.00057229
+
+    objLinearPre = 7.8774    objLinearCur = 7.8771    <=>    delta_obj = -0.00030927    <=>    df_by_xi = -0.00084465    df_by_x = -0.0004317
+
+
+    Iter 2:    objFunc = 7.8771
+
+    objFuncLinear = 7.8771    df = -4.3921e-06    df_term1 = -2.9284e-06    df_term2 = -1.4638e-06    df_term3 = -2.9284e-06
+
+    objLinearPre = 7.8771    objLinearCur = 7.8771    <=>    delta_obj = -1.5305e-06    <=>    df_by_xi = -4.3921e-06    df_by_x = -2.7951e-06
+
+
+    Iter 3:    objFunc = 7.8771
+
+    objFuncLinear = 7.8771    df = -8.1123e-07    df_term1 = -2.9097e-09    df_term2 = -8.0832e-07    df_term3 = -2.9097e-09
+
+    objLinearPre = 7.8771    objLinearCur = 7.8771    <=>    delta_obj = -1.5279e-09    <=>    df_by_xi = -4.3641e-09    df_by_x = -2.7626e-09
+
+
+    Iter 4:    objFunc = 7.8771
+
+    objFuncLinear = 7.8771    df = 2.6891e-07    df_term1 = -3.796e-12    df_term2 = 2.6892e-07    df_term3 = -3.796e-12
+
+    objLinearPre = 7.8771    objLinearCur = 7.8771    <=>    delta_obj = -1.771e-12    <=>    df_by_xi = -5.0582e-12    df_by_x = -3.1991e-12
+
+
+    Iter 5:    objFunc = 7.8771
+
+    objFuncLinear = 7.8771    df = 9.9596e-08    df_term1 = -1.6838e-15    df_term2 = 9.9596e-08    df_term3 = -1.6838e-15
+
+    objLinearPre = 7.8771    objLinearCur = 7.8771    <=>    delta_obj = 3.908e-14    <=>    df_by_xi = 3.201e-14    df_by_x = -3.894e-15
+
+
+    Iter 6:    objFunc = 7.8771
+
+    objFuncLinear = 7.8771    df = 1.2833e-09    df_term1 = -2.1699e-18    df_term2 = 1.2833e-09    df_term3 = -2.1699e-18
+
+    objLinearPre = 7.8771    objLinearCur = 7.8771    <=>    delta_obj = -7.5495e-14    <=>    df_by_xi = -7.4992e-14    df_by_x = -4.7791e-18
+
+
+    Iter 7:    objFunc = 7.8771
+
+    objFuncLinear = 7.8771    df = 1.5707e-10    df_term1 = -2.7367e-21    df_term2 = 1.5707e-10    df_term3 = -2.7367e-21
+Summary >>   ConstraintMetric = 0.58735     ObjectiveGrowth = 0.58705
+
+
+    Iter 1:    objFunc = 13.1
+
+    objFuncLinear = 13.1734    df = -0.25958    df_term1 = -0.17851    df_term2 = -0.081066    df_term3 = -0.17851
+
+    objLinearPre = 13.1734    objLinearCur = 13.0974    <=>    delta_obj = -0.076018    <=>    df_by_xi = -0.25958    df_by_x = -0.15703
+
+
+    Iter 2:    objFunc = 13.0974
+
+    objFuncLinear = 13.0974    df = -4.825e-06    df_term1 = -3.2226e-06    df_term2 = -1.6024e-06    df_term3 = -3.2226e-06
+
+    objLinearPre = 13.0974    objLinearCur = 13.0974    <=>    delta_obj = -1.7791e-06    <=>    df_by_xi = -4.8251e-06    df_by_x = -2.8703e-06
+
+
+    Iter 3:    objFunc = 13.0974
+
+    objFuncLinear = 13.0974    df = 5.3034e-09    df_term1 = 3.532e-09    df_term2 = 1.7713e-09    df_term3 = 3.532e-09
+
+    objLinearPre = 13.0974    objLinearCur = 13.0974    <=>    delta_obj = 1.7051e-09    <=>    df_by_xi = 5.309e-09    df_by_x = 3.6755e-09
+
+
+    Iter 4:    objFunc = 13.0974
+
+    objFuncLinear = 13.0974    df = 4.578e-12    df_term1 = 3.3236e-12    df_term2 = 1.2544e-12    df_term3 = 3.3236e-12
+
+    objLinearPre = 13.0974    objLinearCur = 13.0974    <=>    delta_obj = 1.5667e-12    <=>    df_by_xi = 4.9401e-12    df_by_x = 3.4262e-12
+
+
+    Iter 5:    objFunc = 13.0974
+
+    objFuncLinear = 13.0974    df = 4.2142e-08    df_term1 = 1.0839e-15    df_term2 = 4.2142e-08    df_term3 = 1.0839e-15
+
+    objLinearPre = 13.0974    objLinearCur = 13.0974    <=>    delta_obj = 1.1369e-13    <=>    df_by_xi = 1.1712e-13    df_by_x = 2.8965e-15
+
+
+    Iter 6:    objFunc = 13.0974
+
+    objFuncLinear = 13.0974    df = -1.3207e-09    df_term1 = 8.5172e-19    df_term2 = -1.3207e-09    df_term3 = 8.5172e-19
+Summary >>   ConstraintMetric = 5.0547     ObjectiveGrowth = 5.2203
+
+
+vv-------vv
+
+    Iter 1:    objFunc = 154.6202
+
+    objFuncLinear = 21.2064    df = -1.0548    df_term1 = -1.0643    df_term2 = 0.0095054    df_term3 = -1.0643
+
+    objLinearPre = 21.2064    objLinearCur = 20.3743    <=>    delta_obj = -0.83211    <=>    df_by_xi = -1.0548    df_by_x = 3.8534
+
+
+    Iter 2:    objFunc = 28.1058
+
+    objFuncLinear = 20.3743    df = -0.16384    df_term1 = -0.11104    df_term2 = -0.052803    df_term3 = -0.11104
+
+    objLinearPre = 20.3743    objLinearCur = 20.3184    <=>    delta_obj = -0.055846    <=>    df_by_xi = -0.16384    df_by_x = -0.084707
+
+
+    Iter 3:    objFunc = 20.3188
+
+    objFuncLinear = 20.3184    df = -0.0001133    df_term1 = -7.5455e-05    df_term2 = -3.784e-05    df_term3 = -7.5455e-05
+
+    objLinearPre = 20.3184    objLinearCur = 20.3183    <=>    delta_obj = -0.00011706    <=>    df_by_xi = -0.00011329    df_by_x = 8.0421e-05
+
+
+    Iter 4:    objFunc = 20.3183
+
+    objFuncLinear = 20.3183    df = -1.4164e-06    df_term1 = -8.6949e-07    df_term2 = -5.4691e-07    df_term3 = -8.6949e-07
+
+    objLinearPre = 20.3183    objLinearCur = 20.3183    <=>    delta_obj = -5.1513e-07    <=>    df_by_xi = -1.3047e-06    df_by_x = -7.0954e-07
+
+
+    Iter 5:    objFunc = 20.3183
+
+    objFuncLinear = 20.3183    df = 1.1942e-07    df_term1 = -1.498e-09    df_term2 = 1.2091e-07    df_term3 = -1.498e-09
+
+    objLinearPre = 20.3183    objLinearCur = 20.3183    <=>    delta_obj = -8.7837e-10    <=>    df_by_xi = -2.2638e-09    df_by_x = -1.2628e-09
+
+
+    Iter 6:    objFunc = 20.3183
+
+    objFuncLinear = 20.3183    df = -8.3367e-07    df_term1 = -7.0683e-13    df_term2 = -8.3367e-07    df_term3 = -7.0683e-13
+
+    objLinearPre = 20.3183    objLinearCur = 20.3183    <=>    delta_obj = -1.3358e-12    <=>    df_by_xi = -3.2462e-12    df_by_x = -1.6753e-12
+
+
+    Iter 7:    objFunc = 20.3183
+
+    objFuncLinear = 20.3183    df = -1.5717e-08    df_term1 = 2.3627e-15    df_term2 = -1.5717e-08    df_term3 = 2.3627e-15
+
+    objLinearPre = 20.3183    objLinearCur = 20.3183    <=>    delta_obj = 0    <=>    df_by_xi = -1.6881e-15    df_by_x = -4.7068e-16
+
+
+    Iter 8:    objFunc = 20.3183
+
+    objFuncLinear = 20.3183    df = -5.8446e-11    df_term1 = 5.9815e-18    df_term2 = -5.8446e-11    df_term3 = 5.9815e-18
+
+    objLinearPre = 20.3183    objLinearCur = 20.3183    <=>    delta_obj = 0    <=>    df_by_xi = -4.9669e-16    df_by_x = 7.3219e-18
+
+
+    Iter 9:    objFunc = 20.3183
+
+    objFuncLinear = 20.3183    df = -2.3889e-11    df_term1 = 1.7154e-20    df_term2 = -2.3889e-11    df_term3 = 1.7154e-20
+Summary >>   ConstraintMetric = 8.1423     ObjectiveGrowth = 7.221
+
+
+    Iter 1:    objFunc = 20.8297
+
+    objFuncLinear = 20.7758    df = -0.0023565    df_term1 = -0.001569    df_term2 = -0.00078753    df_term3 = -0.001569
+
+    objLinearPre = 20.7758    objLinearCur = 20.775    <=>    delta_obj = -0.00089671    <=>    df_by_xi = -0.0023565    df_by_x = -0.0013842
+
+
+    Iter 2:    objFunc = 20.775
+
+    objFuncLinear = 20.775    df = 9.5273e-07    df_term1 = 6.3775e-07    df_term2 = 3.1497e-07    df_term3 = 6.3775e-07
+
+    objLinearPre = 20.775    objLinearCur = 20.775    <=>    delta_obj = 2.234e-07    <=>    df_by_xi = 9.5315e-07    df_by_x = 8.2364e-07
+
+
+    Iter 3:    objFunc = 20.775
+
+    objFuncLinear = 20.775    df = 7.6662e-09    df_term1 = 1.1879e-09    df_term2 = 6.4783e-09    df_term3 = 1.1879e-09
+
+    objLinearPre = 20.775    objLinearCur = 20.775    <=>    delta_obj = 5.009e-10    <=>    df_by_xi = 1.7801e-09    df_by_x = 1.3717e-09
+
+
+    Iter 4:    objFunc = 20.775
+
+    objFuncLinear = 20.775    df = 3.4845e-07    df_term1 = -1.1458e-12    df_term2 = 3.4845e-07    df_term3 = -1.1458e-12
+
+    objLinearPre = 20.775    objLinearCur = 20.775    <=>    delta_obj = 1.0303e-12    <=>    df_by_xi = 3.4852e-12    df_by_x = 2.5973e-12
+
+
+    Iter 5:    objFunc = 20.775
+
+    objFuncLinear = 20.775    df = -6.3665e-08    df_term1 = 1.1575e-15    df_term2 = -6.3665e-08    df_term3 = 1.1575e-15
+
+    objLinearPre = 20.775    objLinearCur = 20.775    <=>    delta_obj = 2.4869e-14    <=>    df_by_xi = 3.6296e-14    df_by_x = 6.4859e-15
+
+
+    Iter 6:    objFunc = 20.775
+
+    objFuncLinear = 20.775    df = 7.5029e-10    df_term1 = 3.5499e-18    df_term2 = 7.5029e-10    df_term3 = 3.5499e-18
+
+    objLinearPre = 20.775    objLinearCur = 20.775    <=>    delta_obj = -4.2633e-14    <=>    df_by_xi = -3.7883e-14    df_by_x = 1.8322e-17
+
+
+    Iter 7:    objFunc = 20.775
+
+    objFuncLinear = 20.775    df = 1.3733e-12    df_term1 = 1.479e-20    df_term2 = 1.3733e-12    df_term3 = 1.479e-20
+Summary >>   ConstraintMetric = 0.45759     ObjectiveGrowth = 0.45664
+
+
+    Iter 1:    objFunc = 22.7928
+
+    objFuncLinear = 22.7854    df = 0.018363    df_term1 = 0.012397    df_term2 = 0.0059662    df_term3 = 0.012397
+
+    objLinearPre = 22.7854    objLinearCur = 22.7896    <=>    delta_obj = 0.004135    <=>    df_by_xi = 0.018363    df_by_x = 0.015521
+
+
+    Iter 2:    objFunc = 22.7895
+
+    objFuncLinear = 22.7896    df = -5.8224e-05    df_term1 = -3.8833e-05    df_term2 = -1.9391e-05    df_term3 = -3.8833e-05
+
+    objLinearPre = 22.7896    objLinearCur = 22.7895    <=>    delta_obj = -2.2559e-05    <=>    df_by_xi = -5.8217e-05    df_by_x = -3.249e-05
+
+
+    Iter 3:    objFunc = 22.7895
+
+    objFuncLinear = 22.7895    df = -1.3339e-07    df_term1 = -1.1233e-07    df_term2 = -2.106e-08    df_term3 = -1.1233e-07
+
+    objLinearPre = 22.7895    objLinearCur = 22.7895    <=>    delta_obj = -6.3202e-08    <=>    df_by_xi = -1.6843e-07    df_by_x = -9.8125e-08
+
+
+    Iter 4:    objFunc = 22.7895
+
+    objFuncLinear = 22.7895    df = 7.6432e-07    df_term1 = -3.2818e-10    df_term2 = 7.6465e-07    df_term3 = -3.2818e-10
+
+    objLinearPre = 22.7895    objLinearCur = 22.7895    <=>    delta_obj = -1.8021e-10    <=>    df_by_xi = -4.8932e-10    df_by_x = -2.9187e-10
+
+
+    Iter 5:    objFunc = 22.7895
+
+    objFuncLinear = 22.7895    df = -1.1324e-07    df_term1 = -8.6677e-13    df_term2 = -1.1324e-07    df_term3 = -8.6677e-13
+
+    objLinearPre = 22.7895    objLinearCur = 22.7895    <=>    delta_obj = -4.8317e-13    <=>    df_by_xi = -1.361e-12    df_by_x = -8.3825e-13
+
+
+    Iter 6:    objFunc = 22.7895
+
+    objFuncLinear = 22.7895    df = 4.1258e-08    df_term1 = -1.2843e-15    df_term2 = 4.1258e-08    df_term3 = -1.2843e-15
+
+    objLinearPre = 22.7895    objLinearCur = 22.7895    <=>    delta_obj = -1.1013e-13    <=>    df_by_xi = -1.1241e-13    df_by_x = -2.3468e-15
+
+
+    Iter 7:    objFunc = 22.7895
+
+    objFuncLinear = 22.7895    df = 5.1934e-09    df_term1 = -3.3022e-18    df_term2 = 5.1934e-09    df_term3 = -3.3022e-18
+Summary >>   ConstraintMetric = 2.0017     ObjectiveGrowth = 2.0146
+
+
+    Iter 1:    objFunc = 24.3069
+
+    objFuncLinear = 23.8076    df = -0.056457    df_term1 = -0.037342    df_term2 = -0.019115    df_term3 = -0.037342
+
+    objLinearPre = 23.8076    objLinearCur = 23.788    <=>    delta_obj = -0.019522    <=>    df_by_xi = -0.056457    df_by_x = -0.035242
+
+
+    Iter 2:    objFunc = 23.788
+
+    objFuncLinear = 23.788    df = -0.00017274    df_term1 = -0.00011524    df_term2 = -5.7497e-05    df_term3 = -0.00011524
+
+    objLinearPre = 23.788    objLinearCur = 23.788    <=>    delta_obj = -5.8242e-05    <=>    df_by_xi = -0.00017284    df_by_x = -0.00011363
+
+
+    Iter 3:    objFunc = 23.788
+
+    objFuncLinear = 23.788    df = 1.5747e-07    df_term1 = 4.6418e-09    df_term2 = 1.5283e-07    df_term3 = 4.6418e-09
+
+    objLinearPre = 23.788    objLinearCur = 23.788    <=>    delta_obj = 1.8125e-09    <=>    df_by_xi = 6.958e-09    df_by_x = 5.6573e-09
+
+
+    Iter 4:    objFunc = 23.788
+
+    objFuncLinear = 23.788    df = -1.7111e-06    df_term1 = 2.7965e-11    df_term2 = -1.7111e-06    df_term3 = 2.7965e-11
+
+    objLinearPre = 23.788    objLinearCur = 23.788    <=>    delta_obj = 1.2655e-11    <=>    df_by_xi = 4.1363e-11    df_by_x = 2.9772e-11
+
+
+    Iter 5:    objFunc = 23.788
+
+    objFuncLinear = 23.788    df = 1.4946e-07    df_term1 = 4.6242e-14    df_term2 = 1.4946e-07    df_term3 = 4.6242e-14
+
+    objLinearPre = 23.788    objLinearCur = 23.788    <=>    delta_obj = 9.9476e-14    <=>    df_by_xi = 1.6637e-13    df_by_x = 6.7667e-14
+
+
+    Iter 6:    objFunc = 23.788
+
+    objFuncLinear = 23.788    df = 1.0397e-08    df_term1 = 6.7989e-17    df_term2 = 1.0397e-08    df_term3 = 6.7989e-17
+
+    objLinearPre = 23.788    objLinearCur = 23.788    <=>    delta_obj = -2.1316e-14    <=>    df_by_xi = -1.7562e-14    df_by_x = 1.486e-16
+
+
+    Iter 7:    objFunc = 23.788
+
+    objFuncLinear = 23.788    df = -1.0744e-09    df_term1 = 1.2313e-19    df_term2 = -1.0744e-09    df_term3 = 1.2313e-19
+Summary >>   ConstraintMetric = 1.0143     ObjectiveGrowth = 0.99844
+
+
+    Iter 1:    objFunc = 23.9792
+
+    objFuncLinear = 23.9758    df = -0.0012268    df_term1 = -0.00084582    df_term2 = -0.00038094    df_term3 = -0.00084582
+
+    objLinearPre = 23.9758    objLinearCur = 23.9755    <=>    delta_obj = -0.0003122    <=>    df_by_xi = -0.0012268    df_by_x = -0.0007272
+
+
+    Iter 2:    objFunc = 23.9755
+
+    objFuncLinear = 23.9755    df = -8.8757e-08    df_term1 = -3.4761e-08    df_term2 = -5.3997e-08    df_term3 = -3.4761e-08
+
+    objLinearPre = 23.9755    objLinearCur = 23.9755    <=>    delta_obj = -3.6387e-08    <=>    df_by_xi = -5.1852e-08    df_by_x = 3.9342e-09
+
+
+    Iter 3:    objFunc = 23.9755
+
+    objFuncLinear = 23.9755    df = 3.1138e-07    df_term1 = -8.8582e-10    df_term2 = 3.1227e-07    df_term3 = -8.8582e-10
+
+    objLinearPre = 23.9755    objLinearCur = 23.9755    <=>    delta_obj = -4.686e-10    <=>    df_by_xi = -1.3299e-09    df_by_x = -8.3609e-10
+
+
+    Iter 4:    objFunc = 23.9755
+
+    objFuncLinear = 23.9755    df = -2.6266e-06    df_term1 = -1.4481e-12    df_term2 = -2.6266e-06    df_term3 = -1.4481e-12
+
+    objLinearPre = 23.9755    objLinearCur = 23.9755    <=>    delta_obj = -6.4304e-13    <=>    df_by_xi = -1.8517e-12    df_by_x = -1.1747e-12
+
+
+    Iter 5:    objFunc = 23.9755
+
+    objFuncLinear = 23.9755    df = 7.7985e-10    df_term1 = -5.0131e-16    df_term2 = 7.7985e-10    df_term3 = -5.0131e-16
+
+    objLinearPre = 23.9755    objLinearCur = 23.9755    <=>    delta_obj = 4.6185e-14    <=>    df_by_xi = 4.5263e-14    df_by_x = -1.6279e-15
+
+
+    Iter 6:    objFunc = 23.9755
+
+    objFuncLinear = 23.9755    df = -1.1294e-10    df_term1 = -1.0057e-18    df_term2 = -1.1294e-10    df_term3 = -1.0057e-18
+
+    objLinearPre = 23.9755    objLinearCur = 23.9755    <=>    delta_obj = -7.1054e-15    <=>    df_by_xi = -7.2954e-15    df_by_x = -2.1784e-18
+
+
+    Iter 7:    objFunc = 23.9755
+
+    objFuncLinear = 23.9755    df = -4.2342e-11    df_term1 = -1.6237e-21    df_term2 = -4.2342e-11    df_term3 = -1.6237e-21
+Summary >>   ConstraintMetric = 0.18902     ObjectiveGrowth = 0.18755
+
+
+vv-------vv
+
+    Iter 1:    objFunc = 57.4258
+
+    objFuncLinear = 25.3086    df = -0.35685    df_term1 = -0.23794    df_term2 = -0.11891    df_term3 = -0.23794
+
+    objLinearPre = 25.3086    objLinearCur = 25.2422    <=>    delta_obj = -0.066458    <=>    df_by_xi = -0.35685    df_by_x = -0.24426
+
+
+    Iter 2:    objFunc = 25.2445
+
+    objFuncLinear = 25.2422    df = -0.0037396    df_term1 = -0.0024946    df_term2 = -0.0012451    df_term3 = -0.0024946
+
+    objLinearPre = 25.2422    objLinearCur = 25.2409    <=>    delta_obj = -0.0012206    <=>    df_by_xi = -0.0037396    df_by_x = -0.0024755
+
+
+    Iter 3:    objFunc = 25.2409
+
+    objFuncLinear = 25.2409    df = 1.0082e-06    df_term1 = 6.8735e-07    df_term2 = 3.2083e-07    df_term3 = 6.8735e-07
+
+    objLinearPre = 25.2409    objLinearCur = 25.2409    <=>    delta_obj = 3.3013e-07    <=>    df_by_xi = 1.0309e-06    df_by_x = 7.1398e-07
+
+
+    Iter 4:    objFunc = 25.2409
+
+    objFuncLinear = 25.2409    df = -1.0064e-06    df_term1 = -6.4556e-10    df_term2 = -1.0058e-06    df_term3 = -6.4556e-10
+
+    objLinearPre = 25.2409    objLinearCur = 25.2409    <=>    delta_obj = -3.3232e-10    <=>    df_by_xi = -9.4403e-10    df_by_x = -5.9412e-10
+
+
+    Iter 5:    objFunc = 25.2409
+
+    objFuncLinear = 25.2409    df = -1.8915e-06    df_term1 = -1.7808e-12    df_term2 = -1.8915e-06    df_term3 = -1.7808e-12
+
+    objLinearPre = 25.2409    objLinearCur = 25.2409    <=>    delta_obj = -8.2423e-13    <=>    df_by_xi = -2.5072e-12    df_by_x = -1.6343e-12
+
+
+    Iter 6:    objFunc = 25.2409
+
+    objFuncLinear = 25.2409    df = -3.1479e-08    df_term1 = -5.8719e-16    df_term2 = -3.1479e-08    df_term3 = -5.8719e-16
+
+    objLinearPre = 25.2409    objLinearCur = 25.2409    <=>    delta_obj = -8.1712e-14    <=>    df_by_xi = -7.5239e-14    df_by_x = -4.1917e-15
+
+
+    Iter 7:    objFunc = 25.2409
+
+    objFuncLinear = 25.2409    df = -1.4624e-09    df_term1 = -1.557e-18    df_term2 = -1.4624e-09    df_term3 = -1.557e-18
+
+    objLinearPre = 25.2409    objLinearCur = 25.2409    <=>    delta_obj = -3.908e-14    <=>    df_by_xi = -3.2603e-14    df_by_x = -1.3757e-17
+
+
+    Iter 8:    objFunc = 25.2409
+
+    objFuncLinear = 25.2409    df = 1.1523e-10    df_term1 = -2.4673e-19    df_term2 = 1.1523e-10    df_term3 = -2.4673e-19
+Summary >>   ConstraintMetric = 1.3383     ObjectiveGrowth = 1.2654
+
+
+    Iter 1:    objFunc = 27.572
+
+    objFuncLinear = 26.799    df = 0.14075    df_term1 = 0.095335    df_term2 = 0.045417    df_term3 = 0.095335
+
+    objLinearPre = 26.799    objLinearCur = 26.8219    <=>    delta_obj = 0.02292    <=>    df_by_xi = 0.14075    df_by_x = 0.14327
+
+
+    Iter 2:    objFunc = 26.8229
+
+    objFuncLinear = 26.8219    df = 0.0030048    df_term1 = 0.0020028    df_term2 = 0.001002    df_term3 = 0.0020028
+
+    objLinearPre = 26.8219    objLinearCur = 26.8229    <=>    delta_obj = 0.00095607    <=>    df_by_xi = 0.0030048    df_by_x = 0.0021089
+
+
+    Iter 3:    objFunc = 26.8229
+
+    objFuncLinear = 26.8229    df = 1.1569e-05    df_term1 = 7.5951e-06    df_term2 = 3.974e-06    df_term3 = 7.5951e-06
+
+    objLinearPre = 26.8229    objLinearCur = 26.8229    <=>    delta_obj = 3.1015e-06    <=>    df_by_xi = 1.1394e-05    df_by_x = 8.9896e-06
+
+
+    Iter 4:    objFunc = 26.8229
+
+    objFuncLinear = 26.8229    df = -3.4404e-07    df_term1 = 2.1501e-07    df_term2 = -5.5904e-07    df_term3 = 2.1501e-07
+
+    objLinearPre = 26.8229    objLinearCur = 26.8229    <=>    delta_obj = 8.8703e-08    <=>    df_by_xi = 3.2254e-07    df_by_x = 2.5266e-07
+
+
+    Iter 5:    objFunc = 26.8229
+
+    objFuncLinear = 26.8229    df = -1.2313e-06    df_term1 = 6.2689e-09    df_term2 = -1.2375e-06    df_term3 = 6.2689e-09
+
+    objLinearPre = 26.8229    objLinearCur = 26.8229    <=>    delta_obj = 2.6015e-09    <=>    df_by_xi = 9.4091e-09    df_by_x = 7.3429e-09
+
+
+    Iter 6:    objFunc = 26.8229
+
+    objFuncLinear = 26.8229    df = 1.9913e-07    df_term1 = 1.8058e-10    df_term2 = 1.9895e-07    df_term3 = 1.8058e-10
+
+    objLinearPre = 26.8229    objLinearCur = 26.8229    <=>    delta_obj = 7.4991e-11    <=>    df_by_xi = 2.7114e-10    df_by_x = 2.115e-10
+
+
+    Iter 7:    objFunc = 26.8229
+
+    objFuncLinear = 26.8229    df = 2.9274e-07    df_term1 = 4.5449e-12    df_term2 = 2.9273e-07    df_term3 = 4.5449e-12
+
+    objLinearPre = 26.8229    objLinearCur = 26.8229    <=>    delta_obj = 2.1672e-12    <=>    df_by_xi = 7.8394e-12    df_by_x = 6.0778e-12
+
+
+    Iter 8:    objFunc = 26.8229
+
+    objFuncLinear = 26.8229    df = -8.9274e-08    df_term1 = 1.0344e-13    df_term2 = -8.9274e-08    df_term3 = 1.0344e-13
+
+    objLinearPre = 26.8229    objLinearCur = 26.8229    <=>    delta_obj = 9.2371e-14    <=>    df_by_xi = 2.6254e-13    df_by_x = 1.7475e-13
+
+
+    Iter 9:    objFunc = 26.8229
+
+    objFuncLinear = 26.8229    df = -8.9851e-09    df_term1 = 7.896e-16    df_term2 = -8.9851e-09    df_term3 = 7.896e-16
+
+    objLinearPre = 26.8229    objLinearCur = 26.8229    <=>    delta_obj = 2.4869e-14    <=>    df_by_xi = 3.5062e-14    df_by_x = 5.0175e-15
+
+
+    Iter 10:    objFunc = 26.8229
+
+    objFuncLinear = 26.8229    df = -2.5196e-09    df_term1 = 2.076e-17    df_term2 = -2.5196e-09    df_term3 = 2.076e-17
+Summary >>   ConstraintMetric = 1.6526     ObjectiveGrowth = 1.5819
+
+
+    Iter 1:    objFunc = 28.0375
+
+    objFuncLinear = 27.9959    df = -0.0073407    df_term1 = -0.0051016    df_term2 = -0.0022391    df_term3 = -0.0051016
+
+    objLinearPre = 27.9959    objLinearCur = 27.9932    <=>    delta_obj = -0.0026894    <=>    df_by_xi = -0.0073407    df_by_x = -0.0021389
+
+
+    Iter 2:    objFunc = 27.9932
+
+    objFuncLinear = 27.9932    df = 0.00014222    df_term1 = 9.4824e-05    df_term2 = 4.7397e-05    df_term3 = 9.4824e-05
+
+    objLinearPre = 27.9932    objLinearCur = 27.9932    <=>    delta_obj = 3.3082e-05    <=>    df_by_xi = 0.00014222    df_by_x = 0.00012344
+
+
+    Iter 3:    objFunc = 27.9932
+
+    objFuncLinear = 27.9932    df = 4.6181e-06    df_term1 = 3.1681e-06    df_term2 = 1.45e-06    df_term3 = 3.1681e-06
+
+    objLinearPre = 27.9932    objLinearCur = 27.9932    <=>    delta_obj = 1.2597e-06    <=>    df_by_xi = 4.7526e-06    df_by_x = 3.8176e-06
+
+
+    Iter 4:    objFunc = 27.9932
+
+    objFuncLinear = 27.9932    df = 9.1655e-07    df_term1 = 1.0232e-07    df_term2 = 8.1423e-07    df_term3 = 1.0232e-07
+
+    objLinearPre = 27.9932    objLinearCur = 27.9932    <=>    delta_obj = 4.1884e-08    <=>    df_by_xi = 1.5349e-07    df_by_x = 1.2089e-07
+
+
+    Iter 5:    objFunc = 27.9932
+
+    objFuncLinear = 27.9932    df = -2.6782e-07    df_term1 = 3.1449e-09    df_term2 = -2.7096e-07    df_term3 = 3.1449e-09
+
+    objLinearPre = 27.9932    objLinearCur = 27.9932    <=>    delta_obj = 1.2965e-09    <=>    df_by_xi = 4.7176e-09    df_by_x = 3.6971e-09
+
+
+    Iter 6:    objFunc = 27.9932
+
+    objFuncLinear = 27.9932    df = 1.5533e-06    df_term1 = 9.4553e-11    df_term2 = 1.5532e-06    df_term3 = 9.4553e-11
+
+    objLinearPre = 27.9932    objLinearCur = 27.9932    <=>    delta_obj = 3.9314e-11    <=>    df_by_xi = 1.4282e-10    df_by_x = 1.118e-10
+
+
+    Iter 7:    objFunc = 27.9932
+
+    objFuncLinear = 27.9932    df = 3.8947e-08    df_term1 = 2.2281e-12    df_term2 = 3.8945e-08    df_term3 = 2.2281e-12
+
+    objLinearPre = 27.9932    objLinearCur = 27.9932    <=>    delta_obj = 1.1582e-12    <=>    df_by_xi = 4.2766e-12    df_by_x = 3.37e-12
+
+
+    Iter 8:    objFunc = 27.9932
+
+    objFuncLinear = 27.9932    df = 3.2219e-08    df_term1 = 5.6118e-14    df_term2 = 3.2219e-08    df_term3 = 5.6118e-14
+
+    objLinearPre = 27.9932    objLinearCur = 27.9932    <=>    delta_obj = 1.4211e-13    <=>    df_by_xi = 2.4543e-13    df_by_x = 1.015e-13
+
+
+    Iter 9:    objFunc = 27.9932
+
+    objFuncLinear = 27.9932    df = -5.5027e-09    df_term1 = 4.752e-16    df_term2 = -5.5027e-09    df_term3 = 4.752e-16
+
+    objLinearPre = 27.9932    objLinearCur = 27.9932    <=>    delta_obj = -8.1712e-14    <=>    df_by_xi = -8.3884e-14    df_by_x = 3.0629e-15
+
+
+    Iter 10:    objFunc = 27.9932
+
+    objFuncLinear = 27.9932    df = 9.6152e-10    df_term1 = 1.4275e-17    df_term2 = 9.6152e-10    df_term3 = 1.4275e-17
+Summary >>   ConstraintMetric = 1.1719     ObjectiveGrowth = 1.1703
+
+
+vv-------vv
+
+    Iter 1:    objFunc = 112.9913
+
+    objFuncLinear = 30.435    df = -0.68649    df_term1 = -0.46706    df_term2 = -0.21943    df_term3 = -0.46706
+
+    objLinearPre = 30.435    objLinearCur = 30.4055    <=>    delta_obj = -0.029426    <=>    df_by_xi = -0.68649    df_by_x = -0.43043
+
+
+    Iter 2:    objFunc = 30.4368
+
+    objFuncLinear = 30.4055    df = 0.039775    df_term1 = 0.026536    df_term2 = 0.013238    df_term3 = 0.026536
+
+    objLinearPre = 30.4055    objLinearCur = 30.4184    <=>    delta_obj = 0.012875    <=>    df_by_xi = 0.039775    df_by_x = 0.027218
+
+
+    Iter 3:    objFunc = 30.4184
+
+    objFuncLinear = 30.4184    df = 7.2029e-05    df_term1 = 4.8024e-05    df_term2 = 2.4005e-05    df_term3 = 4.8024e-05
+
+    objLinearPre = 30.4184    objLinearCur = 30.4184    <=>    delta_obj = 2.3648e-05    <=>    df_by_xi = 7.2029e-05    df_by_x = 4.8631e-05
+
+
+    Iter 4:    objFunc = 30.4184
+
+    objFuncLinear = 30.4184    df = -8.5106e-10    df_term1 = -5.6371e-10    df_term2 = -2.8735e-10    df_term3 = -5.6371e-10
+
+    objLinearPre = 30.4184    objLinearCur = 30.4184    <=>    delta_obj = -3.3041e-10    <=>    df_by_xi = -8.4548e-10    df_by_x = -4.6641e-10
+
+
+    Iter 5:    objFunc = 30.4184
+
+    objFuncLinear = 30.4184    df = 1.0108e-06    df_term1 = -2.819e-13    df_term2 = 1.0108e-06    df_term3 = -2.819e-13
+
+    objLinearPre = 30.4184    objLinearCur = 30.4184    <=>    delta_obj = -3.304e-13    <=>    df_by_xi = -8.9724e-13    df_by_x = -5.6733e-13
+
+
+    Iter 6:    objFunc = 30.4184
+
+    objFuncLinear = 30.4184    df = -7.8093e-09    df_term1 = -3.8466e-17    df_term2 = -7.8093e-09    df_term3 = -3.8466e-17
+
+    objLinearPre = 30.4184    objLinearCur = 30.4184    <=>    delta_obj = -7.1054e-14    <=>    df_by_xi = -6.1566e-14    df_by_x = -1.755e-16
+
+
+    Iter 7:    objFunc = 30.4184
+
+    objFuncLinear = 30.4184    df = -3.6032e-10    df_term1 = -3.1732e-19    df_term2 = -3.6032e-10    df_term3 = -3.1732e-19
+Summary >>   ConstraintMetric = 2.4808     ObjectiveGrowth = 2.4252
+
+
+    Iter 1:    objFunc = 31.216
+
+    objFuncLinear = 31.2145    df = -0.0021253    df_term1 = -0.0015567    df_term2 = -0.00056863    df_term3 = -0.0015567
+
+    objLinearPre = 31.2145    objLinearCur = 31.2141    <=>    delta_obj = -0.00049247    <=>    df_by_xi = -0.0021253    df_by_x = -0.00068128
+
+
+    Iter 2:    objFunc = 31.214
+
+    objFuncLinear = 31.2141    df = -2.3593e-05    df_term1 = -1.5745e-05    df_term2 = -7.848e-06    df_term3 = -1.5745e-05
+
+    objLinearPre = 31.2141    objLinearCur = 31.214    <=>    delta_obj = -8.3429e-06    <=>    df_by_xi = -2.3618e-05    df_by_x = -1.4806e-05
+
+
+    Iter 3:    objFunc = 31.214
+
+    objFuncLinear = 31.214    df = -5.1699e-08    df_term1 = -1.9379e-08    df_term2 = -3.2319e-08    df_term3 = -1.9379e-08
+
+    objLinearPre = 31.214    objLinearCur = 31.214    <=>    delta_obj = -1.0075e-08    <=>    df_by_xi = -2.9068e-08    df_by_x = -1.8608e-08
+
+
+    Iter 4:    objFunc = 31.214
+
+    objFuncLinear = 31.214    df = 8.9374e-07    df_term1 = -1.9769e-11    df_term2 = 8.9376e-07    df_term3 = -1.9769e-11
+
+    objLinearPre = 31.214    objLinearCur = 31.214    <=>    delta_obj = -1.0399e-11    <=>    df_by_xi = -2.9834e-11    df_by_x = -1.9074e-11
+
+
+    Iter 5:    objFunc = 31.214
+
+    objFuncLinear = 31.214    df = 8.5978e-08    df_term1 = -8.1276e-15    df_term2 = 8.5978e-08    df_term3 = -8.1276e-15
+
+    objLinearPre = 31.214    objLinearCur = 31.214    <=>    delta_obj = 2.9843e-13    <=>    df_by_xi = 2.7702e-13    df_by_x = -1.8962e-14
+
+
+    Iter 6:    objFunc = 31.214
+
+    objFuncLinear = 31.214    df = 1.4968e-09    df_term1 = -8.4117e-18    df_term2 = 1.4968e-09    df_term3 = -8.4117e-18
+Summary >>   ConstraintMetric = 0.78559     ObjectiveGrowth = 0.79561
+
+
+    Iter 1:    objFunc = 39.362
+
+    objFuncLinear = 39.2285    df = -0.048895    df_term1 = -0.03629    df_term2 = -0.012605    df_term3 = -0.03629
+
+    objLinearPre = 39.2285    objLinearCur = 39.2134    <=>    delta_obj = -0.015036    <=>    df_by_xi = -0.048895    df_by_x = -0.0031321
+
+
+    Iter 2:    objFunc = 39.2125
+
+    objFuncLinear = 39.2134    df = -0.0028243    df_term1 = -0.0018832    df_term2 = -0.00094116    df_term3 = -0.0018832
+
+    objLinearPre = 39.2134    objLinearCur = 39.2124    <=>    delta_obj = -0.0010932    <=>    df_by_xi = -0.0028243    df_by_x = -0.0015798
+
+
+    Iter 3:    objFunc = 39.2123
+
+    objFuncLinear = 39.2124    df = -4.975e-05    df_term1 = -3.3193e-05    df_term2 = -1.6557e-05    df_term3 = -3.3193e-05
+
+    objLinearPre = 39.2124    objLinearCur = 39.2123    <=>    delta_obj = -1.8864e-05    <=>    df_by_xi = -4.9775e-05    df_by_x = -2.8625e-05
+
+
+    Iter 4:    objFunc = 39.2123
+
+    objFuncLinear = 39.2123    df = -7.3669e-07    df_term1 = -5.8954e-07    df_term2 = -1.4715e-07    df_term3 = -5.8954e-07
+
+    objLinearPre = 39.2123    objLinearCur = 39.2123    <=>    delta_obj = -3.3434e-07    <=>    df_by_xi = -8.8413e-07    df_by_x = -5.0999e-07
+
+
+    Iter 5:    objFunc = 39.2123
+
+    objFuncLinear = 39.2123    df = -1.4001e-06    df_term1 = -1.0592e-08    df_term2 = -1.3895e-06    df_term3 = -1.0592e-08
+
+    objLinearPre = 39.2123    objLinearCur = 39.2123    <=>    delta_obj = -6.0061e-09    <=>    df_by_xi = -1.5889e-08    df_by_x = -9.1692e-09
+
+
+    Iter 6:    objFunc = 39.2123
+
+    objFuncLinear = 39.2123    df = -3.8175e-07    df_term1 = -1.9055e-10    df_term2 = -3.8156e-07    df_term3 = -1.9055e-10
+
+    objLinearPre = 39.2123    objLinearCur = 39.2123    <=>    delta_obj = -1.0826e-10    <=>    df_by_xi = -2.8671e-10    df_by_x = -1.6556e-10
+
+
+    Iter 7:    objFunc = 39.2123
+
+    objFuncLinear = 39.2123    df = -3.4765e-07    df_term1 = -3.2327e-12    df_term2 = -3.4764e-07    df_term3 = -3.2327e-12
+
+    objLinearPre = 39.2123    objLinearCur = 39.2123    <=>    delta_obj = -2.0464e-12    <=>    df_by_xi = -5.2693e-12    df_by_x = -2.996e-12
+
+
+    Iter 8:    objFunc = 39.2123
+
+    objFuncLinear = 39.2123    df = -1.2074e-08    df_term1 = -2.2119e-14    df_term2 = -1.2074e-08    df_term3 = -2.2119e-14
+
+    objLinearPre = 39.2123    objLinearCur = 39.2123    <=>    delta_obj = 1.2079e-13    <=>    df_by_xi = 7.4985e-14    df_by_x = -5.4282e-14
+
+
+    Iter 9:    objFunc = 39.2123
+
+    objFuncLinear = 39.2123    df = 1.0105e-08    df_term1 = -4.0676e-16    df_term2 = 1.0105e-08    df_term3 = -4.0676e-16
+
+    objLinearPre = 39.2123    objLinearCur = 39.2123    <=>    delta_obj = -2.1316e-13    <=>    df_by_xi = -2.05e-13    df_by_x = -9.8269e-16
+
+
+    Iter 10:    objFunc = 39.2123
+
+    objFuncLinear = 39.2123    df = 1.1923e-09    df_term1 = -7.379e-18    df_term2 = 1.1923e-09    df_term3 = -7.379e-18
+Summary >>   ConstraintMetric = 7.9091     ObjectiveGrowth = 7.9983
+
+
+vv-------vv
+
+    Iter 1:    objFunc = 194.0922
+
+    objFuncLinear = 39.8385    df = 0.0086229    df_term1 = 0.0060749    df_term2 = 0.0025481    df_term3 = 0.0060749
+
+    objLinearPre = 39.8385    objLinearCur = 39.8396    <=>    delta_obj = 0.0011188    <=>    df_by_xi = 0.0086229    df_by_x = 0.0073296
+
+
+    Iter 2:    objFunc = 39.8396
+
+    objFuncLinear = 39.8396    df = 5.7088e-05    df_term1 = 3.7981e-05    df_term2 = 1.9107e-05    df_term3 = 3.7981e-05
+
+    objLinearPre = 39.8396    objLinearCur = 39.8396    <=>    delta_obj = 1.2132e-05    <=>    df_by_xi = 5.6981e-05    df_by_x = 5.1736e-05
+
+
+    Iter 3:    objFunc = 39.8396
+
+    objFuncLinear = 39.8396    df = 8.2631e-07    df_term1 = 6.268e-07    df_term2 = 1.9952e-07    df_term3 = 6.268e-07
+
+    objLinearPre = 39.8396    objLinearCur = 39.8396    <=>    delta_obj = 2.3514e-07    <=>    df_by_xi = 9.4064e-07    df_by_x = 7.842e-07
+
+
+    Iter 4:    objFunc = 39.8396
+
+    objFuncLinear = 39.8396    df = 1.9973e-06    df_term1 = 1.1452e-08    df_term2 = 1.9858e-06    df_term3 = 1.1452e-08
+
+    objLinearPre = 39.8396    objLinearCur = 39.8396    <=>    delta_obj = 4.2907e-09    <=>    df_by_xi = 1.7184e-08    df_by_x = 1.4332e-08
+
+
+    Iter 5:    objFunc = 39.8396
+
+    objFuncLinear = 39.8396    df = 1.2021e-06    df_term1 = 2.7544e-10    df_term2 = 1.2018e-06    df_term3 = 2.7544e-10
+
+    objLinearPre = 39.8396    objLinearCur = 39.8396    <=>    delta_obj = 1.0601e-10    <=>    df_by_xi = 4.1505e-10    df_by_x = 3.4152e-10
+
+
+    Iter 6:    objFunc = 39.8396
+
+    objFuncLinear = 39.8396    df = -4.0888e-08    df_term1 = 7.1759e-12    df_term2 = -4.0895e-08    df_term3 = 7.1759e-12
+
+    objLinearPre = 39.8396    objLinearCur = 39.8396    <=>    delta_obj = 2.8848e-12    <=>    df_by_xi = 1.154e-11    df_by_x = 9.4853e-12
+
+
+    Iter 7:    objFunc = 39.8396
+
+    objFuncLinear = 39.8396    df = 1.2831e-07    df_term1 = 1.492e-13    df_term2 = 1.2831e-07    df_term3 = 1.492e-13
+
+    objLinearPre = 39.8396    objLinearCur = 39.8396    <=>    delta_obj = 2.1316e-13    <=>    df_by_xi = 4.7328e-13    df_by_x = 2.8065e-13
+
+
+    Iter 8:    objFunc = 39.8396
+
+    objFuncLinear = 39.8396    df = -1.0383e-08    df_term1 = 1.1899e-15    df_term2 = -1.0383e-08    df_term3 = 1.1899e-15
+
+    objLinearPre = 39.8396    objLinearCur = 39.8396    <=>    delta_obj = 5.6843e-14    <=>    df_by_xi = 5.6146e-14    df_by_x = 8.482e-15
+
+
+    Iter 9:    objFunc = 39.8396
+
+    objFuncLinear = 39.8396    df = 3.1813e-10    df_term1 = 3.2053e-17    df_term2 = 3.1813e-10    df_term3 = 3.2053e-17
+
+    objLinearPre = 39.8396    objLinearCur = 39.8396    <=>    delta_obj = -1.1369e-13    <=>    df_by_xi = -1.1183e-13    df_by_x = 2.5733e-16
+
+
+    Iter 10:    objFunc = 39.8396
+
+    objFuncLinear = 39.8396    df = -7.5605e-10    df_term1 = 1.1033e-18    df_term2 = -7.5605e-10    df_term3 = 1.1033e-18
+Summary >>   ConstraintMetric = 0.63707     ObjectiveGrowth = 0.62728
+
+all loop-closures have been optimized

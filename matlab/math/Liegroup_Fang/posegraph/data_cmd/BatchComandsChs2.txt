@@ -1,0 +1,80 @@
+
+Succeed in adding data: "g2o/dataset/ring.g2o"
+
+Iter 1  obj_n = 122.4375  obj_l = 1.2502
+Iter 2  obj_n = 11.207  obj_l = 11.1527
+
+	 Compare Iteration 2 And Iteration 1
+----------------------------------------------------- 
+
+	 ObjFuncL_p = 1.2502	 ObjFuncL_c = 11.1527	 ObjDiff = 9.9025
+
+	$OBJ DIFF$ Accurate = 9.9025	 Term: 2*r^T * Info * dr = -0.0018735	 Term: dr^T * Info * dr = 9.9044
+
+	 Previous r = 0.093468	 Current r = 0.2459	 dr_Real = 0.23186
+
+	#dr# Accurate = 0.23186	 Term: (db - dA x) = 142.9592	 Term:  - (A + dA) * dx = 142.9597
+
+	[APPROXIMATION in dx]: Accurate dx = 349.782	 Approximate dx_a = 361.0345	 Error = 43.2783
+
+	#dr# Approximate = 2.0434	 Term: (db - dA x) = 142.9592	 Term:  - (A + dA) * dx_a = 143.0241
+
+	$OBJ DIFF$ Approximate = 574.0827	 Term: 2*r^T * Info * dr = 0.5348	 Term: dr^T * Info * dr = 573.5479
+
+Iter 3  obj_n = 11.1649  obj_l = 11.1621
+
+	 Compare Iteration 3 And Iteration 2
+----------------------------------------------------- 
+
+	 ObjFuncL_p = 11.1527	 ObjFuncL_c = 11.1621	 ObjDiff = 0.0093838
+
+	$OBJ DIFF$ Accurate = 0.0093838	 Term: 2*r^T * Info * dr = -0.026691	 Term: dr^T * Info * dr = 0.036075
+
+	 Previous r = 0.2459	 Current r = 0.24566	 dr_Real = 0.016502
+
+	#dr# Accurate = 0.016502	 Term: (db - dA x) = 0.88951	 Term:  - (A + dA) * dx = 0.89006
+
+	[APPROXIMATION in dx]: Accurate dx = 72.6388	 Approximate dx_a = 74.7389	 Error = 2.149
+
+	#dr# Approximate = 0.039704	 Term: (db - dA x) = 0.88951	 Term:  - (A + dA) * dx_a = 0.89861
+
+	$OBJ DIFF$ Approximate = 0.17956	 Term: 2*r^T * Info * dr = -0.029985	 Term: dr^T * Info * dr = 0.20955
+
+Iter 4  obj_n = 11.1631  obj_l = 11.1631
+
+	 Compare Iteration 4 And Iteration 3
+----------------------------------------------------- 
+
+	 ObjFuncL_p = 11.1621	 ObjFuncL_c = 11.1631	 ObjDiff = 0.001009
+
+	$OBJ DIFF$ Accurate = 0.001009	 Term: 2*r^T * Info * dr = 0.00079973	 Term: dr^T * Info * dr = 0.00020925
+
+	 Previous r = 0.24566	 Current r = 0.24567	 dr_Real = 0.0013712
+
+	#dr# Accurate = 0.0013712	 Term: (db - dA x) = 0.019396	 Term:  - (A + dA) * dx = 0.019951
+
+	[APPROXIMATION in dx]: Accurate dx = 36.2977	 Approximate dx_a = 36.3652	 Error = 0.27417
+
+	#dr# Approximate = 0.0042454	 Term: (db - dA x) = 0.019396	 Term:  - (A + dA) * dx_a = 0.021606
+
+	$OBJ DIFF$ Approximate = 0.007474	 Term: 2*r^T * Info * dr = 0.00080388	 Term: dr^T * Info * dr = 0.0066701
+
+Iter 5  obj_n = 11.1631  obj_l = 11.1631
+
+	 Compare Iteration 5 And Iteration 4
+----------------------------------------------------- 
+
+	 ObjFuncL_p = 11.1631	 ObjFuncL_c = 11.1631	 ObjDiff = 5.3129e-06
+
+	$OBJ DIFF$ Accurate = 5.3129e-06	 Term: 2*r^T * Info * dr = 4.0826e-06	 Term: dr^T * Info * dr = 1.2302e-06
+
+	 Previous r = 0.24567	 Current r = 0.24567	 dr_Real = 9.667e-05
+
+	#dr# Accurate = 9.667e-05	 Term: (db - dA x) = 0.0024056	 Term:  - (A + dA) * dx = 0.0024299
+
+	[APPROXIMATION in dx]: Accurate dx = 0.70953	 Approximate dx_a = 0.70958	 Error = 0.0001533
+
+	#dr# Approximate = 9.6693e-05	 Term: (db - dA x) = 0.0024056	 Term:  - (A + dA) * dx_a = 0.0024286
+
+	$OBJ DIFF$ Approximate = 5.3148e-06	 Term: 2*r^T * Info * dr = 4.0827e-06	 Term: dr^T * Info * dr = 1.2321e-06
+

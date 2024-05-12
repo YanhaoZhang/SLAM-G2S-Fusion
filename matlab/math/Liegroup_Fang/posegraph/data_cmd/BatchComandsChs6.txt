@@ -1,0 +1,212 @@
+
+Succeed in adding data: "g2o/dataset/MySphere.g2o"
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 6437.8737     nonlinear_LinearUpdated = 228.3452     linear = 228.3452
+
+      x_star_norm:     157.6697      x_star_avg:     1.5767      x_star_max:     27.7739
+
+      b_norm:     113.4847      b_avg:     0.31611      b_max:     14.7238
+
+      Error_LinearUpdate_norm:     78.936      Error_LinearUpdate_avg:     0.21988      Error_LinearUpdate_max:     10.9504
+
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 1141.2657     nonlinear_LinearUpdated = 216.2722     linear = 216.2722
+
+      x_star_norm:     127.1408      x_star_avg:     1.2714      x_star_max:     26.7302
+
+      b_norm:     80.2364      b_avg:     0.2235      b_max:     11.9791
+
+      Error_LinearUpdate_norm:     30.392      Error_LinearUpdate_avg:     0.084657      Error_LinearUpdate_max:     5.9789
+
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 240.2383     nonlinear_LinearUpdated = 213.8239     linear = 213.8239
+
+      x_star_norm:     24.5769      x_star_avg:     0.24577      x_star_max:     6.2338
+
+      b_norm:     33.7826      b_avg:     0.094102      b_max:     5.9947
+
+      Error_LinearUpdate_norm:     4.503      Error_LinearUpdate_avg:     0.012543      Error_LinearUpdate_max:     1.2976
+
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 218.0753     nonlinear_LinearUpdated = 217.4566     linear = 217.4566
+
+      x_star_norm:     3.6135      x_star_avg:     0.036135      x_star_max:     1.5379
+
+      b_norm:     15.4996      b_avg:     0.043174      b_max:     1.5671
+
+      Error_LinearUpdate_norm:     0.58341      Error_LinearUpdate_avg:     0.0016251      Error_LinearUpdate_max:     0.17344
+
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.1     nonlinear_LinearUpdated = 217.0673     linear = 217.0673
+
+      x_star_norm:     0.70956      x_star_avg:     0.0070956      x_star_max:     0.27357
+
+      b_norm:     14.7674      b_avg:     0.041135      b_max:     1.5397
+
+      Error_LinearUpdate_norm:     0.044288      Error_LinearUpdate_avg:     0.00012337      Error_LinearUpdate_max:     0.021071
+
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0383     nonlinear_LinearUpdated = 217.03     linear = 217.03
+
+      x_star_norm:     0.28778      x_star_avg:     0.0028778      x_star_max:     0.1601
+
+      b_norm:     14.7343      b_avg:     0.041043      b_max:     1.5411
+
+      Error_LinearUpdate_norm:     0.0059917      Error_LinearUpdate_avg:     1.669e-05      Error_LinearUpdate_max:     0.0038549
+
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0321     nonlinear_LinearUpdated = 217.0306     linear = 217.0306
+
+      x_star_norm:     0.084055      x_star_avg:     0.00084055      x_star_max:     0.042873
+
+      b_norm:     14.7322      b_avg:     0.041037      b_max:     1.5391
+
+      Error_LinearUpdate_norm:     0.00084798      Error_LinearUpdate_avg:     2.362e-06      Error_LinearUpdate_max:     0.00053161
+
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0314     nonlinear_LinearUpdated = 217.0311     linear = 217.0311
+
+      x_star_norm:     0.037153      x_star_avg:     0.00037153      x_star_max:     0.019283
+
+      b_norm:     14.732      b_avg:     0.041036      b_max:     1.5395
+
+      Error_LinearUpdate_norm:     0.00014804      Error_LinearUpdate_avg:     4.1238e-07      Error_LinearUpdate_max:     9.6158e-05
+
+
+#  Iter 9 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0313     nonlinear_LinearUpdated = 217.0312     linear = 217.0312
+
+      x_star_norm:     0.012442      x_star_avg:     0.00012442      x_star_max:     0.0071935
+
+      b_norm:     14.732      b_avg:     0.041036      b_max:     1.5392
+
+      Error_LinearUpdate_norm:     2.0249e-05      Error_LinearUpdate_avg:     5.6405e-08      Error_LinearUpdate_max:     1.308e-05
+
+
+#  Iter 10 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0313     nonlinear_LinearUpdated = 217.0313     linear = 217.0313
+
+      x_star_norm:     0.0054931      x_star_avg:     5.4931e-05      x_star_max:     0.0028318
+
+      b_norm:     14.732      b_avg:     0.041036      b_max:     1.5393
+
+      Error_LinearUpdate_norm:     4.0988e-06      Error_LinearUpdate_avg:     1.1417e-08      Error_LinearUpdate_max:     2.5666e-06
+
+
+#  Iter 11 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0313     nonlinear_LinearUpdated = 217.0313     linear = 217.0313
+
+      x_star_norm:     0.0020328      x_star_avg:     2.0328e-05      x_star_max:     0.0012334
+
+      b_norm:     14.732      b_avg:     0.041036      b_max:     1.5392
+
+      Error_LinearUpdate_norm:     5.7256e-07      Error_LinearUpdate_avg:     1.5949e-09      Error_LinearUpdate_max:     3.617e-07
+
+
+#  Iter 12 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0313     nonlinear_LinearUpdated = 217.0313     linear = 217.0313
+
+      x_star_norm:     0.0008895      x_star_avg:     8.895e-06      x_star_max:     0.00048457
+
+      b_norm:     14.732      b_avg:     0.041036      b_max:     1.5392
+
+      Error_LinearUpdate_norm:     1.2182e-07      Error_LinearUpdate_avg:     3.3934e-10      Error_LinearUpdate_max:     7.4222e-08
+
+
+#  Iter 13 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0313     nonlinear_LinearUpdated = 217.0313     linear = 217.0313
+
+      x_star_norm:     0.00035222      x_star_avg:     3.5222e-06      x_star_max:     0.00021627
+
+      b_norm:     14.732      b_avg:     0.041036      b_max:     1.5392
+
+      Error_LinearUpdate_norm:     1.7813e-08      Error_LinearUpdate_avg:     4.9619e-11      Error_LinearUpdate_max:     1.0932e-08
+
+
+#  Iter 14 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0313     nonlinear_LinearUpdated = 217.0313     linear = 217.0313
+
+      x_star_norm:     0.00015292      x_star_avg:     1.5292e-06      x_star_max:     8.5603e-05
+
+      b_norm:     14.732      b_avg:     0.041036      b_max:     1.5392
+
+      Error_LinearUpdate_norm:     3.8246e-09      Error_LinearUpdate_avg:     1.0653e-11      Error_LinearUpdate_max:     2.3326e-09
+
+
+#  Iter 15 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0313     nonlinear_LinearUpdated = 217.0313     linear = 217.0313
+
+      x_star_norm:     6.2962e-05      x_star_avg:     6.2962e-07      x_star_max:     3.8576e-05
+
+      b_norm:     14.732      b_avg:     0.041036      b_max:     1.5392
+
+      Error_LinearUpdate_norm:     6.0349e-10      Error_LinearUpdate_avg:     1.681e-12      Error_LinearUpdate_max:     3.5594e-10
+
+
+#  Iter 16 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0313     nonlinear_LinearUpdated = 217.0313     linear = 217.0313
+
+      x_star_norm:     2.7204e-05      x_star_avg:     2.7204e-07      x_star_max:     1.5425e-05
+
+      b_norm:     14.732      b_avg:     0.041036      b_max:     1.5392
+
+      Error_LinearUpdate_norm:     1.3987e-10      Error_LinearUpdate_avg:     3.8961e-13      Error_LinearUpdate_max:     7.5441e-11
+
+
+#  Iter 17 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0313     nonlinear_LinearUpdated = 217.0313     linear = 217.0313
+
+      x_star_norm:     1.1435e-05      x_star_avg:     1.1435e-07      x_star_max:     6.9637e-06
+
+      b_norm:     14.732      b_avg:     0.041036      b_max:     1.5392
+
+      Error_LinearUpdate_norm:     3.5765e-11      Error_LinearUpdate_avg:     9.9624e-14      Error_LinearUpdate_max:     1.5551e-11
+
+
+#  Iter 18 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0313     nonlinear_LinearUpdated = 217.0313     linear = 217.0313
+
+      x_star_norm:     4.9287e-06      x_star_avg:     4.9287e-08      x_star_max:     2.813e-06
+
+      b_norm:     14.732      b_avg:     0.041036      b_max:     1.5392
+
+      Error_LinearUpdate_norm:     1.2825e-11      Error_LinearUpdate_avg:     3.5724e-14      Error_LinearUpdate_max:     5.9553e-12
+
+
+#  Iter 19 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 217.0313     nonlinear_LinearUpdated = 217.0313     linear = 217.0313
+
+      x_star_norm:     2.0939e-06      x_star_avg:     2.0939e-08      x_star_max:     1.2673e-06
+
+      b_norm:     14.732      b_avg:     0.041036      b_max:     1.5392
+
+      Error_LinearUpdate_norm:     5.5053e-12      Error_LinearUpdate_avg:     1.5335e-14      Error_LinearUpdate_max:     2.7831e-12
+

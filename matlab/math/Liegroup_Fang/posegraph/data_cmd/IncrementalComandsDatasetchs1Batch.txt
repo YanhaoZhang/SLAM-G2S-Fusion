@@ -1,0 +1,648 @@
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 1.2362e-24     linear = 5.1989e-48
+
+Finished initialization, the original poses and its marginal computed!
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 0.051463     linear = 0.051191
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 0.051256     linear = 0.051256
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 0.051256     linear = 0.051256
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 0.051256     linear = 0.051256
+Summary >>   ConstraintMetric = 0.051192     ObjectiveGrowth = 0.051256
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 0.8576     linear = 0.75012
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 0.76033     linear = 0.76034
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 0.76033     linear = 0.76033
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 0.76033     linear = 0.76033
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 0.76033     linear = 0.76033
+Summary >>   ConstraintMetric = 0.69919     ObjectiveGrowth = 0.70907
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 1.5253     linear = 1.508
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 1.5141     linear = 1.514
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 1.5141     linear = 1.5141
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 1.5141     linear = 1.5141
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 1.5141     linear = 1.5141
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 1.5141     linear = 1.5141
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 1.5141     linear = 1.5141
+Summary >>   ConstraintMetric = 0.7474     ObjectiveGrowth = 0.75373
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 2.5228     linear = 2.4412
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 2.4255     linear = 2.4254
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 2.4255     linear = 2.4255
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 2.4255     linear = 2.4255
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 2.4255     linear = 2.4255
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 2.4255     linear = 2.4255
+Summary >>   ConstraintMetric = 0.93837     ObjectiveGrowth = 0.91143
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 3.2219     linear = 3.1824
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 3.1977     linear = 3.1977
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 3.1977     linear = 3.1977
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 3.1977     linear = 3.1977
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 3.1977     linear = 3.1977
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 3.1977     linear = 3.1977
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 3.1977     linear = 3.1977
+Summary >>   ConstraintMetric = 0.74412     ObjectiveGrowth = 0.77224
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 51.7098     linear = 4.2111
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 4.2059     linear = 4.2059
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 4.2059     linear = 4.2059
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 4.2059     linear = 4.2059
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 4.2059     linear = 4.2059
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 4.2059     linear = 4.2059
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 4.2059     linear = 4.2059
+Summary >>   ConstraintMetric = 1.0113     ObjectiveGrowth = 1.0082
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 7.1505     linear = 5.2564
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 5.2386     linear = 5.238
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 5.2385     linear = 5.2385
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 5.2385     linear = 5.2385
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 5.2385     linear = 5.2385
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 5.2385     linear = 5.2385
+Summary >>   ConstraintMetric = 1.0562     ObjectiveGrowth = 1.0326
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 5553.5472     linear = 7.2427
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 7.8265     linear = 7.7493
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 7.7481     linear = 7.7481
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 7.7481     linear = 7.7481
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 7.7481     linear = 7.7481
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 7.7481     linear = 7.7481
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 7.7481     linear = 7.7481
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear = 7.7481     linear = 7.7481
+
+#  Iter 9 Optimized  #
+
+     objFuncs:     nonlinear = 7.7481     linear = 7.7481
+Summary >>   ConstraintMetric = 2.02     ObjectiveGrowth = 2.5096
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 47.2094     linear = 8.7505
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 8.7625     linear = 8.755
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 8.755     linear = 8.755
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 8.755     linear = 8.755
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 8.755     linear = 8.755
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 8.755     linear = 8.755
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 8.755     linear = 8.755
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear = 8.755     linear = 8.755
+
+#  Iter 9 Optimized  #
+
+     objFuncs:     nonlinear = 8.755     linear = 8.755
+Summary >>   ConstraintMetric = 0.94757     ObjectiveGrowth = 1.0069
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 99.9308     linear = 10.615
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 11.6917     linear = 10.7478
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 10.7329     linear = 10.7329
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 10.7329     linear = 10.7329
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 10.7329     linear = 10.7329
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 10.7329     linear = 10.7329
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 10.7329     linear = 10.7329
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear = 10.7329     linear = 10.7329
+Summary >>   ConstraintMetric = 1.8326     ObjectiveGrowth = 1.9779
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 11.8003     linear = 11.6219
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 11.6224     linear = 11.6224
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 11.6224     linear = 11.6224
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 11.6224     linear = 11.6224
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 11.6224     linear = 11.6224
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 11.6224     linear = 11.6224
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 11.6224     linear = 11.6224
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear = 11.6224     linear = 11.6224
+Summary >>   ConstraintMetric = 0.88974     ObjectiveGrowth = 0.88953
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 13.7842     linear = 13.0946
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 13.0535     linear = 13.0539
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 13.0534     linear = 13.0534
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 13.0534     linear = 13.0534
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 13.0534     linear = 13.0534
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 13.0534     linear = 13.0534
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 13.0534     linear = 13.0534
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear = 13.0534     linear = 13.0534
+
+#  Iter 9 Optimized  #
+
+     objFuncs:     nonlinear = 13.0534     linear = 13.0534
+Summary >>   ConstraintMetric = 1.4451     ObjectiveGrowth = 1.431
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 16.726     linear = 16.695
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 16.7246     linear = 16.7246
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 16.7246     linear = 16.7246
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 16.7246     linear = 16.7246
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 16.7246     linear = 16.7246
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 16.7246     linear = 16.7246
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 16.7246     linear = 16.7246
+Summary >>   ConstraintMetric = 3.4638     ObjectiveGrowth = 3.6712
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 21.9475     linear = 22.0209
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 21.9449     linear = 21.9449
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 21.9449     linear = 21.9449
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 21.9449     linear = 21.9449
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 21.9449     linear = 21.9449
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 21.9449     linear = 21.9449
+Summary >>   ConstraintMetric = 5.0547     ObjectiveGrowth = 5.2203
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 1110.1914     linear = 24.4473
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 31.0263     linear = 24.535
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 24.5414     linear = 24.5413
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 24.5414     linear = 24.5414
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 24.5414     linear = 24.5414
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 24.5414     linear = 24.5414
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 24.5414     linear = 24.5414
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear = 24.5414     linear = 24.5414
+
+#  Iter 9 Optimized  #
+
+     objFuncs:     nonlinear = 24.5414     linear = 24.5414
+Summary >>   ConstraintMetric = 2.5105     ObjectiveGrowth = 2.5965
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 32.6962     linear = 26.738
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 26.7734     linear = 26.7735
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 26.7733     linear = 26.7733
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 26.7733     linear = 26.7733
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 26.7733     linear = 26.7733
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 26.7733     linear = 26.7733
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 26.7733     linear = 26.7733
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear = 26.7733     linear = 26.7733
+
+#  Iter 9 Optimized  #
+
+     objFuncs:     nonlinear = 26.7733     linear = 26.7733
+Summary >>   ConstraintMetric = 2.1986     ObjectiveGrowth = 2.232
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 28.8445     linear = 28.7923
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 28.8055     linear = 28.8055
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 28.8055     linear = 28.8055
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 28.8055     linear = 28.8055
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 28.8055     linear = 28.8055
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 28.8055     linear = 28.8055
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 28.8055     linear = 28.8055
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear = 28.8055     linear = 28.8055
+Summary >>   ConstraintMetric = 2.0201     ObjectiveGrowth = 2.0322
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 174.3195     linear = 31.2514
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 31.3099     linear = 31.3064
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 31.3062     linear = 31.3062
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 31.3062     linear = 31.3062
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 31.3062     linear = 31.3062
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 31.3062     linear = 31.3062
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 31.3062     linear = 31.3062
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear = 31.3062     linear = 31.3062
+Summary >>   ConstraintMetric = 2.4274     ObjectiveGrowth = 2.5007
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 37.9201     linear = 37.8003
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 37.8114     linear = 37.8099
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 37.8111     linear = 37.8111
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 37.8111     linear = 37.8111
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 37.8111     linear = 37.8111
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 37.8111     linear = 37.8111
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 37.8111     linear = 37.8111
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear = 37.8111     linear = 37.8111
+
+#  Iter 9 Optimized  #
+
+     objFuncs:     nonlinear = 37.8111     linear = 37.8111
+Summary >>   ConstraintMetric = 6.5462     ObjectiveGrowth = 6.5048
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear = 40.5536     linear = 39.866
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear = 39.8397     linear = 39.84
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear = 39.8396     linear = 39.8396
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear = 39.8396     linear = 39.8396
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear = 39.8396     linear = 39.8396
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear = 39.8396     linear = 39.8396
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear = 39.8396     linear = 39.8396
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear = 39.8396     linear = 39.8396
+
+#  Iter 9 Optimized  #
+
+     objFuncs:     nonlinear = 39.8396     linear = 39.8396
+Summary >>   ConstraintMetric = 2.0578     ObjectiveGrowth = 2.0285
+
+all loop-closures have been optimized

@@ -1,0 +1,91 @@
+
+Succeed in adding data: "g2o/dataset/M3500.g2o"
+
+
+#  Iter 1 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 7666.693     nonlinear_LinearUpdated = 12.1485     linear = 12.1485
+
+      x_star_norm:     1325.6391      x_star_avg:     0.37875      x_star_max:     42.852
+
+      b_norm:     239.3581      b_avg:     0.043895      b_max:     31.8079
+
+      Error_LinearUpdate_norm:     87.5367      Error_LinearUpdate_avg:     0.016053      Error_LinearUpdate_max:     8.8454
+
+
+#  Iter 2 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 22.3234     nonlinear_LinearUpdated = 3.571     linear = 3.571
+
+      x_star_norm:     321.6849      x_star_avg:     0.09191      x_star_max:     15.482
+
+      b_norm:     87.5597      b_avg:     0.016057      b_max:     8.8359
+
+      Error_LinearUpdate_norm:     4.4141      Error_LinearUpdate_avg:     0.00080949      Error_LinearUpdate_max:     0.43003
+
+
+#  Iter 3 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 3.0928     nonlinear_LinearUpdated = 3.0212     linear = 3.0212
+
+      x_star_norm:     58.6781      x_star_avg:     0.016765      x_star_max:     1.9706
+
+      b_norm:     4.7248      b_avg:     0.00086645      b_max:     0.40493
+
+      Error_LinearUpdate_norm:     0.26616      Error_LinearUpdate_avg:     4.881e-05      Error_LinearUpdate_max:     0.045855
+
+
+#  Iter 4 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 3.0219     nonlinear_LinearUpdated = 3.0219     linear = 3.0219
+
+      x_star_norm:     1.9018      x_star_avg:     0.00054338      x_star_max:     0.086395
+
+      b_norm:     1.7586      b_avg:     0.00032251      b_max:     0.064329
+
+      Error_LinearUpdate_norm:     0.00042446      Error_LinearUpdate_avg:     7.7841e-08      Error_LinearUpdate_max:     5.1377e-05
+
+
+#  Iter 5 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 3.0219     nonlinear_LinearUpdated = 3.0219     linear = 3.0219
+
+      x_star_norm:     0.049756      x_star_avg:     1.4216e-05      x_star_max:     0.0014529
+
+      b_norm:     1.7384      b_avg:     0.00031879      b_max:     0.064928
+
+      Error_LinearUpdate_norm:     7.4101e-07      Error_LinearUpdate_avg:     1.3589e-10      Error_LinearUpdate_max:     1.2813e-07
+
+
+#  Iter 6 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 3.0219     nonlinear_LinearUpdated = 3.0219     linear = 3.0219
+
+      x_star_norm:     0.00050753      x_star_avg:     1.4501e-07      x_star_max:     1.6601e-05
+
+      b_norm:     1.7384      b_avg:     0.00031879      b_max:     0.06491
+
+      Error_LinearUpdate_norm:     1.1273e-10      Error_LinearUpdate_avg:     2.0672e-14      Error_LinearUpdate_max:     1.019e-10
+
+
+#  Iter 7 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 3.0219     nonlinear_LinearUpdated = 3.0219     linear = 3.0219
+
+      x_star_norm:     1.3915e-05      x_star_avg:     3.9757e-09      x_star_max:     4.3408e-07
+
+      b_norm:     1.7384      b_avg:     0.00031879      b_max:     0.06491
+
+      Error_LinearUpdate_norm:     3.1074e-11      Error_LinearUpdate_avg:     5.6985e-15      Error_LinearUpdate_max:     2.2715e-11
+
+
+#  Iter 8 Optimized  #
+
+     objFuncs:     nonlinear_Optimized = 3.0219     nonlinear_LinearUpdated = 3.0219     linear = 3.0219
+
+      x_star_norm:     3.425e-07      x_star_avg:     9.7858e-11      x_star_max:     9.3729e-08
+
+      b_norm:     1.7384      b_avg:     0.00031879      b_max:     0.06491
+
+      Error_LinearUpdate_norm:     2.2048e-11      Error_LinearUpdate_avg:     4.0433e-15      Error_LinearUpdate_max:     1.3714e-11
+
