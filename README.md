@@ -1,5 +1,7 @@
 # increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration
 
+Code of our work that is published on ICRA 2024. 
+
 [//]: <> ## [Project website](https://imaging.cs.cmu.edu/volumetric_opaque_solids/index.html)
 
 <p align="center">
@@ -73,13 +75,13 @@ void System::SaveKeyFrameTrajectoryKITTI(const string &filename, const string &f
 
 ### Usage
 
-* The G2S part is in `./Boosting3DoFAccuracy/`. 
-* Main function `main_kitti_G2SSLAMFusion.py`, 
-* Results are saved in `save_path/test_kitti`.
+* The G2S part is in `./Boosting3DoFAccuracy/`
+* Main function `main_kitti_G2SSLAMFusion.py`
+* Results are saved in `save_path/test_kitti`
 
 
 
-## More Details on Implementation
+## Some Details
 
 * The coarse-to-fine valid G2S selection is implemented in `main_kitti_G2SSLAMFusion.py`. For each valid G2S pose, a scaled pose graph is called via `main_crossview_sPGO_SLAM2oxts_CVandVOweights_Cov.m`. The solver is implemented in `./matlab/Optimizer17_poseGraph_SLAM2OXTS_VOCVWeights/`
 
@@ -97,3 +99,25 @@ The implementation is based on [Boosting3DoFAccuracy](https://github.com/YujiaoS
  - [ ] Replacing the G2S Registration with the most SOTA work.
 [//]: <> - [ ] Implement the G2S Resigration with the visual SLAM system. 
 
+
+## Bitex
+If you found this library useful for your research, please consider citing:
+
+```
+@article{zhang2024increasing,
+  title={Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration},
+  author={Zhang, Yanhao and Shi, Yujiao and Wang, Shan and Vora, Ankit and Perincherry, Akhil and Chen, Yongbo and Li, Hongdong},
+  journal={arXiv preprint arXiv:2404.09169},
+  year={2024}
+}
+
+@inproceedings{shi2023boosting,
+  title={Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer},
+  author={Shi, Yujiao and Wu, Fei and Perincherry, Akhil and Vora, Ankit and Li, Hongdong},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={21516--21526},
+  year={2023}
+}
+```
+
+Please do not hesitate to contact me at `yanhaozhang1991@gmail.com` or `yanhao.zhang@uts.edu.au`.
